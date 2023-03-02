@@ -1,0 +1,1 @@
+FROM thingsboard/tb-pe:3.4.0PE
